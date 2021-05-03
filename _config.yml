@@ -1,2 +1,2 @@
-# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option 1
 remote_theme: "jeffreytse/jekyll-theme-yat"
